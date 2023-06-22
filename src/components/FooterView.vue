@@ -21,7 +21,7 @@
                 </ul>
             </li>
 
-            <li class="features">
+         <!--    <li class="features">
                 <h2>User Link</h2>
 
                 <ul class="box-footer">
@@ -42,9 +42,9 @@
                     <li><a href="">Abidjan</a></li>
                     <li><a href="">Côte d'Ivoire</a></li>
                 </ul>
-            </li>
+            </li> -->
 
-        </ul>
+        </ul> 
 
         <div class="footer-bottom">
             <p>All Right Reserved by &copy;CDML 2023</p>
@@ -60,5 +60,6 @@ export default{
 </script>
 
 <style scoped>
+@import '../assets/main.css';
 
 </style>

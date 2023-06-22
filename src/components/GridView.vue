@@ -17,7 +17,7 @@
 
             <img src="../assets/enchilada.jpg" alt="Image 2">
             <h3 class="card-title-text">Enchilada <span class="rate"><i class="fa-solid fa-star rate-color"></i> 4.2</span></h3>
-            <button type="button" class="btn-card">Add To Cart </button> <span class="rate"> $320</span>
+            <button type="button" class="btn-card">Add To Cart </button> <span class="price"> $320</span>
         </div>
         <div class="gallery-item">
 
